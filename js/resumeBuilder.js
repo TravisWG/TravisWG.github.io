@@ -12,7 +12,7 @@ var model = {
 		},
 		"welcomeMessage" : "Hello!  My name is Travis and I am an aspiring Front End Web Developer.",
 		"skills" : ["HTML", "CSS", "JavaScript", "jQuery", "Responsive Web Design", "Version Control", "AJAX", "Website Optimization",],
-		"biopic" : "images/profile.jpg",
+		"biopic" : "images/profile.JPG",
 		"imageAlt": "Personal headshot"
 	},
 
@@ -62,7 +62,7 @@ var model = {
 			"dates" : "March 2016",
 			"description" : "Simple portfolio design that utilizes various responsive web design techniques such as CSS breakpoints (media queries), responsive patterns, CSS frameworks, and responsive images (srcset and sizes attributes).",
 			"location" : "Udacity",
-			"images" : ["images/responsive_page.jpg", "images/responsive_page_large.jpg"],
+			"images" : ["images/responsive_page.JPG", "images/responsive_page_large.JPG"],
 			"imageAlt": "Responsive Design Project Snapshot",
 			"url": "projects/Responsive_Web_Design/index.html"
 			},
@@ -71,7 +71,7 @@ var model = {
 			"dates" : "May 2015 - October 2015",
 			"description" : "Website built using skills learned during Intro to Programming Nanodegree. Content is primarily notes taken during the course. The site is hosted using Google App Engine and features use of HTML, CSS, (minor) JavaScript, and Python.",
 			"location" : "Udacity",
-			"images" : ["images/IPND_Page.jpg", "images/IPND_Page_Large.jpg"],
+			"images" : ["images/IPND_Page.JPG", "images/IPND_Page_Large.JPG"],
 			"imageAlt": "Intro to Programming Note Webpage Snapshot",
 			"url": "projects/INDP_Notes/index.html"
 			}
