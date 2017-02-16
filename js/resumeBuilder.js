@@ -12,7 +12,7 @@ var model = {
 		},
 		"welcomeMessage" : "Hello!  My name is Travis and I am an aspiring Front End Web Developer.",
 		"skills" : ["HTML", "CSS", "JavaScript", "jQuery", "Responsive Web Design", "Version Control", "AJAX", "Website Optimization",],
-		"biopic" : "images/profile.JPG",
+		"biopic" : "img/profile.JPG",
 		"imageAlt": "Personal headshot"
 	},
 
