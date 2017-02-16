@@ -71,7 +71,7 @@ var model = {
 			"dates" : "May 2015 - October 2015",
 			"description" : "Website built using skills learned during Intro to Programming Nanodegree. Content is primarily notes taken during the course. The site is hosted using Google App Engine and features use of HTML, CSS, (minor) JavaScript, and Python.",
 			"location" : "Udacity",
-			"images" : ["images/IPND_Page.JPG", "images/IPND_Page_Large.JPG"],
+			"images" : ["img/IPND_Page.JPG", "img/IPND_Page_Large.JPG"],
 			"imageAlt": "Intro to Programming Note Webpage Snapshot",
 			"url": "projects/INDP_Notes/index.html"
 			}
