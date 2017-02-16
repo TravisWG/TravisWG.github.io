@@ -12,7 +12,7 @@ var model = {
 		},
 		"welcomeMessage" : "Hello!  My name is Travis and I am an aspiring Front End Web Developer.",
 		"skills" : ["HTML", "CSS", "JavaScript", "jQuery", "Responsive Web Design", "Version Control", "AJAX", "Website Optimization",],
-		"biopic" : "img/profile.JPG",
+		"biopic" : "img/Profile.jpg",
 		"imageAlt": "Personal headshot"
 	},
 
@@ -62,7 +62,7 @@ var model = {
 			"dates" : "March 2016",
 			"description" : "Simple portfolio design that utilizes various responsive web design techniques such as CSS breakpoints (media queries), responsive patterns, CSS frameworks, and responsive images (srcset and sizes attributes).",
 			"location" : "Udacity",
-			"images" : ["img/responsive_page.JPG", "img/responsive_page_large.JPG"],
+			"images" : ["img/Responsive_page.JPG", "img/Responsive_page_Large.JPG"],
 			"imageAlt": "Responsive Design Project Snapshot",
 			"url": "projects/Responsive_Web_Design/index.html"
 			},
