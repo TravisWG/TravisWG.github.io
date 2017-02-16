@@ -62,7 +62,7 @@ var model = {
 			"dates" : "March 2016",
 			"description" : "Simple portfolio design that utilizes various responsive web design techniques such as CSS breakpoints (media queries), responsive patterns, CSS frameworks, and responsive images (srcset and sizes attributes).",
 			"location" : "Udacity",
-			"images" : ["images/responsive_page.JPG", "images/responsive_page_large.JPG"],
+			"images" : ["img/responsive_page.JPG", "img/responsive_page_large.JPG"],
 			"imageAlt": "Responsive Design Project Snapshot",
 			"url": "projects/Responsive_Web_Design/index.html"
 			},
